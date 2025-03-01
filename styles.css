@@ -1,8 +1,9 @@
 body {
-    background-color: aqua;
+    background-color: #8E2300;
 }
 
 h1 {
+    background-color: black;
     font-family: koulen; 
     font-size: 64;
 }
